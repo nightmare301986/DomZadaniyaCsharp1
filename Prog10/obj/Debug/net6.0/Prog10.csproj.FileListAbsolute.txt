@@ -1,0 +1,15 @@
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\bin\Debug\net6.0\Prog10.exe
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\bin\Debug\net6.0\Prog10.deps.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\bin\Debug\net6.0\Prog10.runtimeconfig.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\bin\Debug\net6.0\Prog10.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\bin\Debug\net6.0\Prog10.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.csproj.AssemblyReference.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.AssemblyInfoInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.AssemblyInfo.cs
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.csproj.CoreCompileInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\refint\Prog10.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\Prog10.genruntimeconfig.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog10\obj\Debug\net6.0\ref\Prog10.dll
