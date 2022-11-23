@@ -1,0 +1,15 @@
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.csproj.AssemblyReference.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.AssemblyInfoInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.AssemblyInfo.cs
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.csproj.CoreCompileInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\bin\Debug\net6.0\Prog11.exe
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\bin\Debug\net6.0\Prog11.deps.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\bin\Debug\net6.0\Prog11.runtimeconfig.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\bin\Debug\net6.0\Prog11.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\bin\Debug\net6.0\Prog11.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\refint\Prog11.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\Prog11.genruntimeconfig.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog11\obj\Debug\net6.0\ref\Prog11.dll
