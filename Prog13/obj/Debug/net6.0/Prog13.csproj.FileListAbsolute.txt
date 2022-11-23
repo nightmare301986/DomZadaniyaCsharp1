@@ -1,0 +1,15 @@
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.csproj.AssemblyReference.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.AssemblyInfoInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.AssemblyInfo.cs
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.csproj.CoreCompileInputs.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\bin\Debug\net6.0\Prog13.exe
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\bin\Debug\net6.0\Prog13.deps.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\bin\Debug\net6.0\Prog13.runtimeconfig.json
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\bin\Debug\net6.0\Prog13.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\bin\Debug\net6.0\Prog13.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\refint\Prog13.dll
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.pdb
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\Prog13.genruntimeconfig.cache
+C:\Users\ЕвгенийП\Desktop\csharp1\Prog13\obj\Debug\net6.0\ref\Prog13.dll
